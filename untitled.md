@@ -11,7 +11,7 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>STP (802.1d)</b>
+      <th width="50%" style="text-align:left"><b>STP (802.1d)</b>
       </th>
       <th style="text-align:left"><b>RSTP (802.1w)</b>
       </th>
@@ -19,7 +19,7 @@
   </thead>
   <tbody>
     <tr>
-      <td width="300px" style="text-align:left">&#x412; &#x443;&#x436;&#x435; &#x441;&#x43B;&#x43E;&#x436;&#x438;&#x432;&#x448;&#x435;&#x439;&#x441;&#x44F;
+      <td style="text-align:left">&#x412; &#x443;&#x436;&#x435; &#x441;&#x43B;&#x43E;&#x436;&#x438;&#x432;&#x448;&#x435;&#x439;&#x441;&#x44F;
         &#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x438; &#x442;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E;
         &#x43A;&#x43E;&#x440;&#x43D;&#x435;&#x432;&#x43E;&#x439; &#x441;&#x432;&#x438;&#x447;
         &#x448;&#x43B;&#x435;&#x442; BPDU, &#x43E;&#x441;&#x442;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x435;
